@@ -74,6 +74,6 @@ These predictions are saved in a file named **`submission.csv`**, which contains
 | Library | Purpose |
 |----------|----------|
 | **pandas** | Data manipulation and preprocessing |
-| **matplotlib** | Data visualization | 
+| **matplotlib** | Data visualization |
 | **seaborn** | Statistical data visualization |
 | **scikit-learn** | Machine learning model building and evaluation |
